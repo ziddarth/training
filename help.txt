@@ -1,2 +1,2 @@
-Namaste!!
-Hi!!
+<h2>Namaste!!</h2>
+<h3>Hi!!</h3>
